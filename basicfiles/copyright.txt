@@ -1,0 +1,23 @@
+╭━━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮╱╭╮
+┃╭━╮┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃╭╯╰╮
+┃┃╱╰╋━━┳━━┳╮╱╭┳━┳┳━━┫╰┻╮╭╯
+┃┃╱╭┫╭╮┃╭╮┃┃╱┃┃╭╋┫╭╮┃╭╮┃┃
+┃╰━╯┃╰╯┃╰╯┃╰━╯┃┃┃┃╰╯┃┃┃┃╰╮
+╰━━━┻━━┫╭━┻━╮╭┻╯╰┻━╮┣╯╰┻━╯
+╱╱╱╱╱╱╱┃┃╱╭━╯┃╱╱╱╭━╯┃
+╱╱╱╱╱╱╱╰╯╱╰━━╯╱╱╱╰━━╯
+
+---------------------------------------------------------
+Hi, so you want information about copyright. You can use
+my YouTube video's, even you can monetise them too, but 
+what you have to do while using my video's in your YouTube 
+channel is to put my channel link in your video description.
+My all projects are open source, feel safe & free to modify 
+& distribute them. You can modify my website too, the website 
+is license under MIT License.
+---------------------------------------------------------
+
+- File created on 7/10/2021
+- Last modified on 7/10/2021
+
+© The Linux Tutorials, All Right Reserved.
